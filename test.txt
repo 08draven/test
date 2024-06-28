@@ -1,0 +1,1 @@
+Hello World! I am being fetched from an external file.
